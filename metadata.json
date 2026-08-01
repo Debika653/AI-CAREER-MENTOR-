@@ -1,0 +1,6 @@
+{
+  "name": "AI Career Mentor",
+  "description": "Personalized digital career coach offering career path matching, skill gap analysis, AI roadmaps, portfolio project recommendations, resume analysis, and job readiness tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
